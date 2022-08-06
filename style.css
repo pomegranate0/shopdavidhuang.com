@@ -14,7 +14,8 @@
 #JOATS {
   object-fit: cover;
   width: 100vw;
-  height: 100vh;
+  height: auto;
+  max-height: 100vw
   position: fixed;
   top: 0;
   left: 0;
